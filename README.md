@@ -1,12 +1,12 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lameesa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fathima-lameesa-931b29215/)](https://in.linkedin.com/in/fathima-lameesa-931b29215)
-[![Website Badge](https://img.shields.io/badge/WebSite-Lameesa-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Lameesa-green)](https://lameesa-kt.github.io/Lameesaprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Lameesa-yellow)](https://stackoverflow.com/users/18318056/lameesa)
 
 I'm
-Full Stack Developer
-I am an enthusiastic, self-motivated individual who is willing to learn new skills. I'm currently pursuing bachelors degree in computer science engineering. I identify and develop opportunities.
+Full Stack Developer.
+The crossover between design and programming has always been of interest to me, I've been lucky enough to learn new skills and look forward to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development, front-end development and database.
 
 ![Visitor Count](https://profile-counter.glitch.me/Lameesa-kt/count.svg)
 
